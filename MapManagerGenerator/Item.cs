@@ -21,8 +21,10 @@ namespace MapManagerGenerator
 
             foreach (ColorRectangle r in rects)
             {
-                output += r.tag.ToString() + "-" + r.X.ToString() + "-"
-                    + r.Y.ToString() + "-" + r.W.ToString() + "-" + r.H.ToString() + "-" + r.item.ToString() + "   \r\n";
+                output += r.tag.ToString() + "," + r.X.ToString() + ","
+                    + r.Y.ToString() + "," 
+                    //+ r.W.ToString() + "-" + r.H.ToString() + "-" 
+                    + r.item.ToString() + "   \r\n";
             }
             return output;
         }

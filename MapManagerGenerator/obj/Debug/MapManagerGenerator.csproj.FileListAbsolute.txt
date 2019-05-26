@@ -8,3 +8,13 @@ D:\University\Courses\Introduction to Game Development\Projects\MapManagerGenera
 D:\University\Courses\Introduction to Game Development\Projects\MapManagerGenerator\MapManagerGenerator\obj\Debug\MapManagerGenerator.csproj.CoreCompileInputs.cache
 D:\University\Courses\Introduction to Game Development\Projects\MapManagerGenerator\MapManagerGenerator\obj\Debug\MapManagerGenerator.exe
 D:\University\Courses\Introduction to Game Development\Projects\MapManagerGenerator\MapManagerGenerator\obj\Debug\MapManagerGenerator.pdb
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\bin\Debug\MapManagerGenerator.exe.config
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\bin\Debug\MapManagerGenerator.exe
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\bin\Debug\MapManagerGenerator.pdb
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.csprojAssemblyReference.cache
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.Form1.resources
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.Properties.Resources.resources
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.csproj.GenerateResource.cache
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.csproj.CoreCompileInputs.cache
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.exe
+D:\University\Courses\Introduction to Game Development\Projects\Ninja-Gaiden-CPP\mapmanager\mapmanager\MapManagerGenerator\obj\Debug\MapManagerGenerator.pdb

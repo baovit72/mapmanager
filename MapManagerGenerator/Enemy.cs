@@ -27,8 +27,12 @@ namespace MapManagerGenerator
             output += "ENEMIES \r\n";
             foreach (ColorRectangle r in rects)
             {
-                output += r.tag.ToString() + "-" + r.X.ToString() + "-"
-                    + r.Y.ToString() + "-" + r.W.ToString() + "-" + r.H.ToString() + "\r\n";
+                output += r.tag.ToString() + "," + r.X.ToString() 
+                    + ","
+                    + r.Y.ToString() 
+                    //+ "-" + r.W.ToString() 
+                    //+ "," + r.H.ToString() 
+                    + "\r\n";
             }
             return output;
         }
